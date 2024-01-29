@@ -13,11 +13,10 @@ My [LinkedIn](https://www.linkedin.com/in/liezlmouton/) 👩‍💻
 
 ## Table of Contents
 
-- [CodeSpace IWA_02 Challenges 1-3](#codespace-iwa_02-challenges-1-3)
-  - [⭐ IWA_2.4 Challenge 1](#-iwa_24-challenge-1)
-  - [⭐ IWA_2.4 Challenge 2](#-iwa_24-challenge-2)
-  - [⭐ IWA_2.4 Challenge 3](#-iwa_24-challenge-3)
-  - [Conclusion](#conclusion)
+- [⭐ IWA_2.4 Challenge 1](#-iwa_24-challenge-1)
+- [⭐ IWA_2.4 Challenge 2](#-iwa_24-challenge-2)
+- [⭐ IWA_2.4 Challenge 3](#-iwa_24-challenge-3)
+- [Conclusion](#conclusion)
 
 ## ⭐ IWA_2.4 Challenge 1
 
