@@ -1,5 +1,4 @@
 <!-- omit in toc -->
-
 # CodeSpace IWA_02 Challenges 1-3
 
 This is my repo for the IWA_02 challenge solutions (1-3) for
@@ -10,26 +9,16 @@ This is my repo for the IWA_02 challenge solutions (1-3) for
 My [LinkedIn](https://www.linkedin.com/in/liezlmouton/) 👩‍💻
 
 <!-- omit in toc -->
-
 ## Table of Contents
 
-- [CodeSpace IWA\_02 Challenges 1-3](#codespace-iwa_02-challenges-1-3)
-  - [Table of Contents](#table-of-contents)
-  - [⭐ IWA\_2.4 Challenge 1](#-iwa_24-challenge-1)
-    - [Challenge](#challenge)
-    - [My solution](#my-solution)
-  - [⭐ IWA\_2.4 Challenge 2](#-iwa_24-challenge-2)
-    - [Challenge](#challenge-1)
-    - [My Solution](#my-solution-1)
-  - [⭐ IWA\_2.4 Challenge 3](#-iwa_24-challenge-3)
-    - [Challenge](#challenge-2)
-    - [My Solution](#my-solution-2)
-  - [:blue\_heart: Conclusion](#blue_heart-conclusion)
+- [⭐ IWA\_2.4 Challenge 1](#-iwa_24-challenge-1)
+- [⭐ IWA\_2.4 Challenge 2](#-iwa_24-challenge-2)
+- [⭐ IWA\_2.4 Challenge 3](#-iwa_24-challenge-3)
+- [:blue\_heart: Conclusion](#blue_heart-conclusion)
 
 ## ⭐ IWA_2.4 Challenge 1
 
 <!-- omit in toc -->
-
 ### Challenge
 
 I was given the challenge to correct the following code:
@@ -47,7 +36,6 @@ console.log(user; surname;)
 ```
 
 <!-- omit in toc -->
-
 ### My solution
 
 1. I grouped the variable declarations
@@ -57,7 +45,6 @@ console.log(user; surname;)
 ## ⭐ IWA_2.4 Challenge 2
 
 <!-- omit in toc -->
-
 ### Challenge
 
 I was given the challenge to correct the following code:
@@ -74,7 +61,6 @@ console(date)
 ```
 
 <!-- omit in toc -->
-
 ### My Solution
 
 1. I corrected the comment(s) syntax
@@ -83,7 +69,6 @@ console(date)
 ## ⭐ IWA_2.4 Challenge 3
 
 <!-- omit in toc -->
-
 ### Challenge
 
 "_The following code should print a warning to the console, indicating that security scanning has started. It should also print an info message to the console, informing users that they should wait for the scan to complete before closing the browser. It is important that these comments are kept in the code for context to future developers._
@@ -106,7 +91,6 @@ cnosole.info('Please wait for scan to complete before closing the browser.)
 ```
 
 <!-- omit in toc -->
-
 ### My Solution
 
 1. I corrected the multi-line comment syntax
