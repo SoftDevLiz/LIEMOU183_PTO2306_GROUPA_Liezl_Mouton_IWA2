@@ -13,10 +13,18 @@ My [LinkedIn](https://www.linkedin.com/in/liezlmouton/) 👩‍💻
 
 ## Table of Contents
 
-- [⭐ IWA_2.4 Challenge 1](#-iwa_24-challenge-1)
-- [⭐ IWA_2.4 Challenge 2](#-iwa_24-challenge-2)
-- [⭐ IWA_2.4 Challenge 3](#-iwa_24-challenge-3)
-- [Conclusion](#conclusion)
+- [CodeSpace IWA\_02 Challenges 1-3](#codespace-iwa_02-challenges-1-3)
+  - [Table of Contents](#table-of-contents)
+  - [⭐ IWA\_2.4 Challenge 1](#-iwa_24-challenge-1)
+    - [Challenge](#challenge)
+    - [My solution](#my-solution)
+  - [⭐ IWA\_2.4 Challenge 2](#-iwa_24-challenge-2)
+    - [Challenge](#challenge-1)
+    - [My Solution](#my-solution-1)
+  - [⭐ IWA\_2.4 Challenge 3](#-iwa_24-challenge-3)
+    - [Challenge](#challenge-2)
+    - [My Solution](#my-solution-2)
+  - [:blue\_heart: Conclusion](#blue_heart-conclusion)
 
 ## ⭐ IWA_2.4 Challenge 1
 
@@ -106,7 +114,7 @@ cnosole.info('Please wait for scan to complete before closing the browser.)
 3. I corrected the single-line comment syntax
 4. I corrected the `console.info()` syntax and the closed the string with the missing quotation mark
 
-## Conclusion
+## :blue_heart: Conclusion
 
 <mark>This was my first exercise in using Markdown</mark> for documentation on some of the very first JavaScript exercises I had ever done.
 
